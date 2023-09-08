@@ -9,6 +9,7 @@ public class treeSet {
         s.add(20);
         s.add(5);
         System.out.println(s);
+        System.out.println(s.size());
         
     }
 }
